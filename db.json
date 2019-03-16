@@ -1,0 +1,14 @@
+{
+  " posts " : [
+    { " id " : 1 , " titre " : " Post 1 " },
+    { " id " : 2 , " titre " : " Post 2 " },
+    { " id " : 3 , " titre " : " Post 3 " }
+  ],
+  " commentaires " : [
+    { " id " : 1 , " body " : " un commentaire " , " postId " : 1 },
+    { " id " : 2 , " body " : " un commentaire " , " postId " : 1 }
+  ],
+  " profil " : {
+    " name " : " typicode "
+  }
+}
